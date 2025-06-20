@@ -478,7 +478,9 @@ CACHE_TTL=3600
 
 ### ⭐ Star this repo if you found it helpful!
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️ and lots of ☕**<br>
+<br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 </div>
